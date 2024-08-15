@@ -7,7 +7,7 @@ chmod +x init.sh
 ./init.sh
 ```
 This will load all of the map and scenario files necessary for running
-experiments.
+experiments. Please look at examples on how to run MAPF scenarios in main.py. For a more comprehensive review of how to run scenarios, look at the 'tests' directory. 
 
 ## Multi-Agent Pathfinding Algorithms
 Currently, we support the following multi-agent pathfinding algorithms:
