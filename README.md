@@ -12,6 +12,7 @@ experiments.
 ## Multi-Agent Pathfinding Algorithms
 Currently, we support the following multi-agent pathfinding algorithms:
 - Conflict-Based Search (CBS)
+- Improved Conflict-Based Search (ICBS)
 - Pathfinding with Rapid Information Sharing using Motion constraints (PRISM)
 
 We will be adding these algorithms in future releases:
