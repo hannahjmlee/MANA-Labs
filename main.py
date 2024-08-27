@@ -1,6 +1,5 @@
 from tests.dec_mapf_tester import *
 from tests.mapf_tester import *
-from tests.prism_tester import *
 from tests.utils_tester import *
 
 def main():
